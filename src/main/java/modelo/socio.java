@@ -21,4 +21,3 @@ public abstract class socio {
         return list_Cuentas;
     }
 }
-rafa
